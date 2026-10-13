@@ -1,0 +1,25 @@
+HubSpot Sales Hub Pricing & Packaging (2026)
+
+Free Plan:
+- Price: $0/month (Free for up to 2 users, no credit card required)
+- Includes: Free marketing, sales, service, content, data, and commerce tools.
+- Key features: Contact management, deal pipelines, quotes, meeting scheduling, email tracking, live chat, reporting dashboard.
+
+Starter Plan:
+- Price: Starts at $15 - $20/month per seat (billed annually) or $20/month per seat (monthly)
+- Target: Essential marketing, sales, service, content, and data management software for small teams.
+- Key features: Removes HubSpot branding, includes simple automation, email templates, repetitive task queues, basic reporting, call recording, and 500 HubSpot Credits.
+
+Professional Plan:
+- Price: Starts at $90 - $100/month per seat (billed annually, 5 seat minimum = $450 - $500/month) plus a mandatory one-time onboarding fee (~$1,500).
+- Target: Comprehensive sales software to automate and scale sales processes.
+- Key features: Advanced sales automation (sequences, workflows), deal progression, custom reporting, forecasting, quoting with e-signatures, coaching playlists, lead scoring, and 3,000 HubSpot Credits.
+
+Enterprise Plan:
+- Price: Starts at $150/month per seat (billed annually, 10 seat minimum = $1,500/month) plus mandatory onboarding fee (~$3,500).
+- Target: Advanced control and customization for scaling organizations.
+- Key features: Custom objects, hierarchical teams, advanced permissions, predictive lead scoring, recurring revenue tracking, conversation intelligence, and single sign-on (SSO).
+
+Key Pricing Considerations & Upsells:
+- Marketing Contacts: If bundling with Marketing Hub, pricing scales significantly based on contact count tiers.
+- Seat Model: HubSpot distinguishes between View-Only users and Core/Sales Seats with edit and workflow permissions.

@@ -1,0 +1,25 @@
+Pipedrive CRM Pricing & Plans (2026)
+
+Lite Plan:
+- Price: $14/seat/month (billed annually, $168/seat/year) or $24/seat/month (billed monthly)
+- Target: Small teams and solo reps getting organized.
+- Key features: Lead, calendar, and pipeline management; simple contact activity tracking; 500+ app integrations; AI-powered basic report creation; meeting intelligence preview.
+
+Growth Plan:
+- Price: $24 - $39/seat/month (billed annually) or $44/seat/month (billed monthly)
+- Target: Teams that want to automate email communication and follow-ups.
+- Key features: Customizable email sync with 2-way tracking; automated workflows (up to 30 active automations); meeting scheduler; recurring revenue tracking; basic sales forecasting.
+
+Premium Plan:
+- Price: $59/seat/month (billed annually) or $79/seat/month (billed monthly)
+- Target: Teams requiring deeper AI insights, revenue forecasting, and data enrichment.
+- Key features: AI sales assistant; smart data enrichment; multiple dashboards and advanced revenue forecasting; formula fields; document and contract signing e-signatures.
+
+Enterprise Plan:
+- Price: $99/seat/month (billed annually) or $129/seat/month (billed monthly)
+- Target: Larger sales organizations needing custom permissions and unlimited capacity.
+- Key features: Unlimited custom fields and reports; advanced user permissions and visibility groups; dedicated account manager; phone support; complete security center with audit logging.
+
+Key Add-ons:
+- LeadBooster: $32.50/company/month (Chatbot, Live Chat, Web Forms, Prospector tool).
+- Campaigns (Email Marketing): Tiered pricing based on subscriber volume.

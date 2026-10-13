@@ -1,0 +1,26 @@
+Salesforce Sales Cloud Pricing & Editions (2026)
+
+Starter Suite:
+- Price: $25/user/month (billed monthly or annually)
+- Target: Small businesses needing an all-in-one simple CRM suite.
+- Key features: Lead, account, contact, and opportunity management; built-in sales flows and lead routing; automated email and calendar sync; pre-built email marketing and basic analytics.
+
+Pro Suite:
+- Price: $100/user/month (billed annually)
+- Target: Growing businesses needing more automation, customization, and quoting.
+- Key features: Everything in Starter plus sales quoting and forecasting, custom sales processes, access to AgentExchange, and basic process automation.
+
+Sales Cloud Core (Enterprise Edition):
+- Price: $195/user/month (billed annually)
+- Target: Mid-market to large companies needing comprehensive CRM power and AI integration.
+- Key features: Advanced pipeline management, workflow and approval automation, Slack Business+ integration, Tableau Next analytics, and Agentforce AI skills.
+
+Sales Cloud Advanced (Unlimited Edition):
+- Price: $395/user/month (billed annually)
+- Target: Complex enterprise teams requiring full automation, scale, and high-tier support.
+- Key features: Full Agentforce autonomous agents, developer sandboxes, 24/7 Premier Support, predictive pipeline inspection, and enterprise security.
+
+Key Pricing Considerations:
+- Contract Terms: Core and Advanced tiers typically require multi-year annual upfront commitments.
+- Implementation & Administration: Salesforce often requires dedicated administrator personnel or external implementation partners.
+- AI Add-ons: Advanced Agentforce and generative features frequently carry per-conversation or token-based consumption pricing.

@@ -1,0 +1,29 @@
+Zoho CRM Pricing & Editions (2026)
+
+Free Edition:
+- Price: $0 (Forever free for up to 3 users, no credit card required)
+- Key features: Contact management, follow-up reminders, basic workflow automation, custom email templates, tasks, meetings and calls, standard reporting, data import/export, and mobile apps.
+
+Standard Edition:
+- Price: $14/user/month (billed annually) or $20/user/month (billed monthly)
+- Target: Small teams getting started with sales tracking.
+- Key features: Multiple sales pipelines, mass email and email tracking, built-in calling, calendar integration, web form data capture, sales forecasting, data enrichment, custom modules, and Gmail/Outlook integrations.
+
+Professional Edition:
+- Price: $23/user/month (billed annually) or $35/user/month (billed monthly)
+- Target: Growing sales organizations that need automation and pipeline control.
+- Key features: Zia AI agents and predictive intelligence, process management (Blueprints), inventory management, unlimited custom reports, Configure Price Quote (CPQ), custom portals, and web-to-case forms.
+
+Enterprise Edition:
+- Price: $40/user/month (billed annually) or $50/user/month (billed monthly)
+- Target: Mature sales organizations needing advanced customization and scale.
+- Key features: Multi-team management, reporting hierarchy, custom buttons and functions, sequential data collection, approvals, Account-Based Marketing (ABM), developer sandbox, and field-level encryption.
+
+Ultimate Edition:
+- Price: $52/user/month (billed annually)
+- Target: High-volume enterprises looking for advanced business intelligence.
+- Key features: Advanced BI integration with Zoho Analytics, dedicated database clusters, and 24/7 priority support.
+
+Zoho CRM Plus:
+- Price: $57/user/month (billed annually)
+- Includes: Unified sales, marketing, and customer service suite combining 8 Zoho apps.

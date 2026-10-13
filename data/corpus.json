@@ -1,0 +1,58 @@
+[
+  {
+    "file": "hubspot-pricing.txt",
+    "brand": "HubSpot",
+    "source": "https://www.hubspot.com/pricing/sales?term=annual&currencyCode=USD"
+  },
+  {
+    "file": "hubspot_pricing_complaints.txt",
+    "brand": "HubSpot",
+    "source": "https://www.reddit.com/r/hubspot/comments/1v867j0/hubspots_pricing_is_unfair/"
+  },
+  {
+    "file": "hubspot_crm_review.txt",
+    "brand": "HubSpot, Zoho, Pipedrive, Salesforce",
+    "source": "https://software.firstreviewers.com/hubspot-crm-review/"
+  },
+  {
+    "file": "crm_four_way_comparison_salesflare.txt",
+    "brand": "Salesforce, HubSpot, Zoho, Pipedrive, Salesflare",
+    "source": "https://blog.salesflare.com/compare-salesforce-zoho-hubspot-pipedrive"
+  },
+  {
+    "file": "zoho_vs_hubspot_comparison.txt",
+    "brand": "Zoho, HubSpot",
+    "source": "https://www.zoho.com/crm/compare/hubspot.html"
+  },
+  {
+    "file": "hubspot_zoho_pipedrive_comparison.txt",
+    "brand": "HubSpot, Zoho, Pipedrive",
+    "source": "https://yourcrmfinder.com/blog/hubspot-vs-zoho-vs-pipedrive"
+  },
+  {
+    "file": "crm_comparison_smb.txt",
+    "brand": "HubSpot",
+    "source": "https://pixiux.com/blog-hubspot-crm-review-2026"
+  },
+  {
+    "file": "salesforce-pricing.txt",
+    "brand": "Salesforce",
+    "source": "https://www.salesforce.com/sales/pricing/"
+  },
+  {
+    "file": "salesforce_crm_review.txt",
+    "brand": "Salesforce, HubSpot",
+    "source": "https://elisemorel.com/blog/salesforce-review"
+  },
+  {
+    "file": "pipedrive-pricing.txt",
+    "brand": "Pipedrive",
+    "source": "https://www.pipedrive.com/en/pricing"
+  },
+  {
+    "file": "zoho-pricing.txt",
+    "brand": "Zoho",
+    "source": "https://www.zoho.com/en-us/crm/zohocrm-pricing.html"
+  }
+]
+
